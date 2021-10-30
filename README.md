@@ -1,4 +1,4 @@
-### Hi there, i'm Samuel 👋
+## Hi there, i'm Samuel 👋
 
 I'm currently working on be a javascript full stack developer, building web softwares with React JS and so many libs to style and make the app a greate solution for my client. Also, i can build APIs RESTful with NodeJS that can handle with many business rule. I belive that all web application have to be secure and for this i also write robusts tests for all projects usings tools like Jest and Cypress.
 
