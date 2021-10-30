@@ -18,6 +18,7 @@ Fun fact: i love beaches, mountains and all kind of trip for nature :)
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
+<div style="display: flex, justify-content: space-between">
 ### Github Stats
 <img align="left" alt="Samuel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samuelfcf&show_icons=true&hide_border=true" />
 
@@ -26,3 +27,4 @@ Fun fact: i love beaches, mountains and all kind of trip for nature :)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/samuel-felipe-fernandes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:samuelfelipef@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/samuelflp_/)
+<div>
