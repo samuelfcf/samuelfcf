@@ -1,6 +1,6 @@
 ## Hi there, i'm Samuel 👋
 
-I'm currently working on be a javascript full stack developer, building web softwares with React JS and so many libs to style and make the app a greate solution for my client. Also, i can build APIs RESTful with NodeJS that can handle with many business rule. I belive that all web application have to be secure and for this i also write robusts tests for all projects usings tools like Jest and Cypress.
+I'm currently working on be a javascript full stack developer, building web softwares with React JS and some libs to style and make the app a greate solution for my client. Also, i can build APIs RESTful with NodeJS that can handle any problem and business logic. I belive that all web application have to be secure and for this i also write robusts tests for all projects usings tools like Jest and Cypress.
 
 Fun fact: i love beaches, mountains and all kind of trip for nature :) 
 
